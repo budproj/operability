@@ -9,8 +9,8 @@ On this document you will find the following topics:
 
 ## How it works
 
-_TODO_
+Since we're still developing this project and we've not prioritized it yet, there are no relevant explanation here.
 
 ## Basic architecture
 
-_TODO_
+Since we're still developing this project and we've not prioritized it yet, there are no relevant explanation here.
