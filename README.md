@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-   <img src="" alt="" title="Operability header's GIF" />
+   <img src="https://media.giphy.com/media/qYTn6z4fjSqXK/giphy.gif" alt="A robot trying to put a box on a table and failing miserably" title="Operability header's GIF" />
   <br>
 </p>
 <p align="center">
