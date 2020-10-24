@@ -9,7 +9,7 @@ Integrations automation between our platform and applications
 
 ## 📖 About this
 
-_TODO_
+In this repository, we're going to automate many aspects of integrating our platform and applications. It is still a work in progress project, but we're still keeping some records regarding relevant decisions.
 
 * [Table of contents](#)
   * [Prerequisites](#-prerequisites)
@@ -20,15 +20,15 @@ _TODO_
 
 ## 👽 Prerequisites
 
-_TODO_
+Since we're still developing this project and we've not prioritized it yet, there are no prerequisites to use it.
 
 ## 🧙‍♂️ Quickstart
 
-_TODO_
+Since we're still developing this project and we've not prioritized it yet, there are no relevant quickstart.
 
 ## 👩‍🔬 Usage
 
-_TODO_
+There is nothing you can use in this repository, but we're keeping track of architecture decisions at our ADL folder, located at `docs/adl`.
 
 ## 💻 Contributing
 
@@ -36,7 +36,7 @@ Contributions are what make our company such an amazing place to learn, inspire,
 
 ## 🔗 Useful links
 
-_TODO_
+* [What is operability?](https://www.codemotion.com/magazine/dev-hub/devops-engineer/software-operability-a-devops-cornerstone/)
 
 ## 🔓 License
 
